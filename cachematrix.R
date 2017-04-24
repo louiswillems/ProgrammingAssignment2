@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## This function computes the makeCacheMatrix of the special matrix. Returns a list object containing the given matrix 'x' and set the cache for 'm' and 'x'
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
